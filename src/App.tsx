@@ -38,6 +38,7 @@ const dummyData = [
   },
 ];
 
+
 const DependencyTree: React.FunctionComponent<{
   name: string;
   dependencies: any[];
