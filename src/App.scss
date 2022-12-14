@@ -1,0 +1,7 @@
+.card-template:not(:hover) {
+  box-shadow: none !important;
+}
+
+.card-template {
+  transition: all 0.2s;
+}
