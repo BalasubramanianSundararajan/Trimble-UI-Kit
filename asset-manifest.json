@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.4483ac89.css",
-    "main.js": "/home/static/js/main.50dbe5ce.js",
-    "static/js/787.de088257.chunk.js": "/home/static/js/787.de088257.chunk.js",
-    "index.html": "/home/index.html",
-    "main.4483ac89.css.map": "/home/static/css/main.4483ac89.css.map",
-    "main.50dbe5ce.js.map": "/home/static/js/main.50dbe5ce.js.map",
-    "787.de088257.chunk.js.map": "/home/static/js/787.de088257.chunk.js.map"
+    "main.css": "/trimbleuikit/static/css/main.4483ac89.css",
+    "main.js": "/trimbleuikit/static/js/main.0cee67a5.js",
+    "static/js/787.de088257.chunk.js": "/trimbleuikit/static/js/787.de088257.chunk.js",
+    "index.html": "/trimbleuikit/index.html",
+    "main.4483ac89.css.map": "/trimbleuikit/static/css/main.4483ac89.css.map",
+    "main.0cee67a5.js.map": "/trimbleuikit/static/js/main.0cee67a5.js.map",
+    "787.de088257.chunk.js.map": "/trimbleuikit/static/js/787.de088257.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4483ac89.css",
-    "static/js/main.50dbe5ce.js"
+    "static/js/main.0cee67a5.js"
   ]
 }
