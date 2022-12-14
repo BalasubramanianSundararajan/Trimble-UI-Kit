@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/trimbleuikit/static/css/main.4483ac89.css",
-    "main.js": "/trimbleuikit/static/js/main.0cee67a5.js",
-    "static/js/787.de088257.chunk.js": "/trimbleuikit/static/js/787.de088257.chunk.js",
-    "index.html": "/trimbleuikit/index.html",
-    "main.4483ac89.css.map": "/trimbleuikit/static/css/main.4483ac89.css.map",
-    "main.0cee67a5.js.map": "/trimbleuikit/static/js/main.0cee67a5.js.map",
-    "787.de088257.chunk.js.map": "/trimbleuikit/static/js/787.de088257.chunk.js.map"
+    "main.css": "/Trimble-UI-Kit/static/css/main.4483ac89.css",
+    "main.js": "/Trimble-UI-Kit/static/js/main.32f3c91d.js",
+    "static/js/787.de088257.chunk.js": "/Trimble-UI-Kit/static/js/787.de088257.chunk.js",
+    "index.html": "/Trimble-UI-Kit/index.html",
+    "main.4483ac89.css.map": "/Trimble-UI-Kit/static/css/main.4483ac89.css.map",
+    "main.32f3c91d.js.map": "/Trimble-UI-Kit/static/js/main.32f3c91d.js.map",
+    "787.de088257.chunk.js.map": "/Trimble-UI-Kit/static/js/787.de088257.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4483ac89.css",
-    "static/js/main.0cee67a5.js"
+    "static/js/main.32f3c91d.js"
   ]
 }
